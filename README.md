@@ -1,4 +1,5 @@
 angular-gallery
 ===============
 
-Angular JS Gallery Dev
+Angular JS Gallery Dev:
+A Learning Angular Experimentation
